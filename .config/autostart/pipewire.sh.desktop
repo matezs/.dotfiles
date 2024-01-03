@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=/home/matezz/scripts/pipewire.sh
-Icon=dialog-scripts
-Name=pipewire.sh
-Path=
-Type=Application
-X-KDE-AutostartScript=true
